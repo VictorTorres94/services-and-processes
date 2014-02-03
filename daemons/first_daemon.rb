@@ -1,5 +1,5 @@
 #! /usr/bin/env ruby
-#daemonize.rb
+# first_daemon.rb
 
 require 'tempfile'
 
