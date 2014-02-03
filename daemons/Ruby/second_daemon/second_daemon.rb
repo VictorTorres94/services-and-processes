@@ -2,7 +2,7 @@
 #second_daemon.rb
 
 require 'tempfile'
-#require 'daemonize'
+require 'daemonize'
 
 include Daemonize
 
